@@ -1,7 +1,7 @@
 # 🎬 Lazy Tutorial | How to use Wan 2.2 Video Generation on Colab | FREE by:: vadigr (silly and easy)
 
 ⚠️ **WARNING!**  
-I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation](https://docs.comfy.org/).
+I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation](https://colab.research.google.com/github/vadigr123/WAN_BY-mikus/blob/master/WAN_T2V_with_LoRA_by_mikus.ipynb).
 
 ---
 
@@ -16,7 +16,7 @@ Use `UPDATE_COMFY_UI`, `USE_COMFYUI_MANAGER`, `INSTALL_CUSTOM_NODES_DEPENDENCIES
 
 **`USE_GOOGLE_DRIVE`** is used to store all models and files on your Google Drive
 
-![Install ComfyUI](screenshots/install_comfyui.png)
+![Install ComfyUI](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/22d475de-c194-4881-985a-af3c12eacc8c/original=true/22d475de-c194-4881-985a-af3c12eacc8c.jpeg)
 
 ---
 
@@ -24,7 +24,7 @@ Use `UPDATE_COMFY_UI`, `USE_COMFYUI_MANAGER`, `INSTALL_CUSTOM_NODES_DEPENDENCIES
 
 Choose one of two options (I recommend 2.2, though 2.1 is also good - I'm just too dumb to figure it out, read below to learn more)
 
-![Download Models](screenshots/download_models.png)
+![Download Models](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/94268708-29f0-4df4-9782-db059847032e/original=true/94268708-29f0-4df4-9782-db059847032e.jpeg)
 
 ### 📝 Note:
 * **Model 2.2 generates surprisingly faster than 2.1!**
@@ -47,7 +47,7 @@ https://localhost:8188/
 
 You need to click on **`https://localhost:8188/`**
 
-![Launch Link](screenshots/launch_link.png)
+![Launch Link](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/200f2018-976d-4aa7-8033-b07c143efc10/original=true/200f2018-976d-4aa7-8033-b07c143efc10.jpeg)
 
 After that, ComfyUI launches - use **[ZIP With Workflow](workflow-link-here)** for Animation
 
@@ -62,7 +62,7 @@ All you need is:
 
 (Although you should also use **`KSampler`** to edit the Steps)
 
-![Workflow Example](screenshots/workflow.png)
+![Workflow Example](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb94d9df-9efd-456c-8a5f-5f4c3bc36d19/original=true/eb94d9df-9efd-456c-8a5f-5f4c3bc36d19.jpeg)
 
 ---
 
