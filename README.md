@@ -146,16 +146,9 @@ Or join the [Official ComfyUI Discord](https://discord.gg/comfyui)
 * Original ComfyUI by [comfyanonymous](https://github.com/comfyanonymous/ComfyUI)
 * Wan 2.2 Models by [QuantStack](https://huggingface.co/QuantStack)
 * GGUF Node by [calcuis](https://github.com/calcuis/gguf)
-* Tutorial style inspired by mikus tutorials on CivitAI
 
 ---
 
 ## ⭐ Star this repo if it helped you!
 
 Thanks for reading this guide! 💕
-
----
-
-**Last Updated:** January 2025  
-**Version:** 1.0  
-**Author:** vadigr123
