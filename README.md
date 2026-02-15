@@ -1,12 +1,12 @@
 # 🎬 Lazy Tutorial | How to use Wan 2.2 Video Generation on Colab | FREE by:: vadigr (silly and easy)
 
 ⚠️ **WARNING!**  
-I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation](https://colab.research.google.com/github/vadigr123/WAN_BY-mikus/blob/master/WAN_T2V_with_LoRA_by_mikus.ipynb).
+I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation]().
 
 ---
 
 ## 📥 Colab URL:
-**[Download Virus Free 2026](your-colab-link-here)** ⬅️ Click
+**[Download Virus Free 2026](https://colab.research.google.com/github/vadigr123/WAN_BY-mikus/blob/master/WAN_T2V_with_LoRA_by_mikus.ipynb)** ⬅️ Click
 
 ---
 
@@ -48,9 +48,6 @@ https://localhost:8188/
 You need to click on **`https://localhost:8188/`**
 
 ![Launch Link](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/200f2018-976d-4aa7-8033-b07c143efc10/original=true/200f2018-976d-4aa7-8033-b07c143efc10.jpeg)
-
-After that, ComfyUI launches - use **[ZIP With Workflow](workflow-link-here)** for Animation
-
 ---
 
 ## 🛠️ Workflow Setup:
