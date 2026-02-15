@@ -1,7 +1,7 @@
 # 🎬 Lazy Tutorial | How to use Wan 2.2 Video Generation on Colab | FREE by:: vadigr (silly and easy)
 
 ⚠️ **WARNING!**  
-I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation]().
+I'm not very experienced in this matter, so I recommend you first learn all the functions and read some more tutorials on how to do it in the [Official ComfyUI Documentation](https://github.com/Comfy-Org/docs).
 
 ---
 
